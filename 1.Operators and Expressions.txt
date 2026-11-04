@@ -4,7 +4,7 @@ int main()
 {
     int a, b, choice, res;
 
-    printf("===== OPERATORS AND EXPRESSIONS =====\n");
+    printf("===== OPERATORS AND EXPRESSIONS =====\n"); 
 
     printf("Enter the first number: ");
     scanf("%d", &a);
